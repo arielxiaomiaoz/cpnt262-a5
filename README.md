@@ -1,5 +1,4 @@
 # cpnt262-a5
-## CPNT 262: Web Client and Server Programming
 ## Course code and title:
 CPNT 262: Web Client and Server Programming
 ## Author name:
