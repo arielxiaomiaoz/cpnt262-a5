@@ -8,7 +8,7 @@ Ariel Xiaomiao Zhang
 Assignment 5 - JSON Server with Heroku and MongoDB Atlas
 ## Github repo:
 [GH Repo](https://github.com/arielxiaomiaoz/cpnt262-a5)<br>
-[Heroku Page](https://cpnt262-a4-ariel.herokuapp.com/)<br>
+[Heroku Page](https://cpnt262-a5-ariel.herokuapp.com/)<br>
 [Heroku Page - array](https://cpnt262-a5-ariel.herokuapp.com/api/v0/cakes)<br>
 [Heroku Page - by ID](https://cpnt262-a5-ariel.herokuapp.com/api/v0/cakes/2)<br>
 ## Comments:
